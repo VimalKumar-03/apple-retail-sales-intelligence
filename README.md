@@ -1,4 +1,4 @@
-# apple-retail-sales-intelligenc
+# apple-retail-sales-intelligence
 
 ---
 ## 🔍 Key Insights Delivered
