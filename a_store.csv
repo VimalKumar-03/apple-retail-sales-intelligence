@@ -1,0 +1,51 @@
+StoreID,Store_Name,Country,City,Store_Type
+1,Apple Store 1,USA,New York,Premium
+2,Apple Store 2,UK,London,Online
+3,Apple Store 3,Canada,Toronto,Outlet
+4,Apple Store 4,UAE,Dubai,Flagship
+5,Apple Store 5,Australia,Sydney,Premium
+6,Apple Store 6,Japan,Tokyo,Online
+7,Apple Store 7,Germany,Berlin,Outlet
+8,Apple Store 8,France,Paris,Flagship
+9,Apple Store 9,Singapore,Singapore,Premium
+10,Apple Store 10,India,Bangalore,Online
+11,Apple Store 11,USA,New York,Outlet
+12,Apple Store 12,UK,London,Flagship
+13,Apple Store 13,Canada,Toronto,Premium
+14,Apple Store 14,UAE,Dubai,Online
+15,Apple Store 15,Australia,Sydney,Outlet
+16,Apple Store 16,Japan,Tokyo,Flagship
+17,Apple Store 17,Germany,Berlin,Premium
+18,Apple Store 18,France,Paris,Online
+19,Apple Store 19,Singapore,Singapore,Outlet
+20,Apple Store 20,India,Bangalore,Flagship
+21,Apple Store 21,USA,New York,Premium
+22,Apple Store 22,UK,London,Online
+23,Apple Store 23,Canada,Toronto,Outlet
+24,Apple Store 24,UAE,Dubai,Flagship
+25,Apple Store 25,Australia,Sydney,Premium
+26,Apple Store 26,Japan,Tokyo,Online
+27,Apple Store 27,Germany,Berlin,Outlet
+28,Apple Store 28,France,Paris,Flagship
+29,Apple Store 29,Singapore,Singapore,Premium
+30,Apple Store 30,India,Bangalore,Online
+31,Apple Store 31,USA,New York,Outlet
+32,Apple Store 32,UK,London,Flagship
+33,Apple Store 33,Canada,Toronto,Premium
+34,Apple Store 34,UAE,Dubai,Online
+35,Apple Store 35,Australia,Sydney,Outlet
+36,Apple Store 36,Japan,Tokyo,Flagship
+37,Apple Store 37,Germany,Berlin,Premium
+38,Apple Store 38,France,Paris,Online
+39,Apple Store 39,Singapore,Singapore,Outlet
+40,Apple Store 40,India,Bangalore,Flagship
+41,Apple Store 41,USA,New York,Premium
+42,Apple Store 42,UK,London,Online
+43,Apple Store 43,Canada,Toronto,Outlet
+44,Apple Store 44,UAE,Dubai,Flagship
+45,Apple Store 45,Australia,Sydney,Premium
+46,Apple Store 46,Japan,Tokyo,Online
+47,Apple Store 47,Germany,Berlin,Outlet
+48,Apple Store 48,France,Paris,Flagship
+49,Apple Store 49,Singapore,Singapore,Premium
+50,Apple Store 50,India,Bangalore,Online

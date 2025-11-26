@@ -1,0 +1,51 @@
+ProductID,Product_Name,Category,Model,Unit_Price
+100,iPhone 14,Smartphone,iPhone 14 MK202,846
+101,iPhone 14 Pro,Smartphone,iPhone 14 Pro MK370,1045
+102,iPhone 15,Smartphone,iPhone 15 MK800,916
+103,iPhone 15 Pro,Smartphone,iPhone 15 Pro MK221,1023
+104,MacBook Air M2,Laptop,MacBook Air M2 MK430,1090
+105,MacBook Pro 14,Laptop,MacBook Pro 14 MK472,2039
+106,MacBook Pro 16,Laptop,MacBook Pro 16 MK763,2574
+107,AirPods Pro,Accessory,AirPods Pro MK408,272
+108,AirPods 3,Accessory,AirPods 3 MK591,194
+109,Apple Watch S8,Wearable,Apple Watch S8 MK485,373
+110,Apple Watch SE,Wearable,Apple Watch SE MK376,254
+111,iPad Air 5,Tablet,iPad Air 5 MK413,702
+112,iPad Pro 11,Tablet,iPad Pro 11 MK847,722
+113,iPad Pro 12.9,Tablet,iPad Pro 12.9 MK574,1021
+114,HomePod Mini,Smart Home,HomePod Mini MK781,90
+115,Apple Pencil 2,Accessory,Apple Pencil 2 MK799,125
+116,iPhone 14,Smartphone,iPhone 14 MK289,733
+117,iPhone 14 Pro,Smartphone,iPhone 14 Pro MK662,975
+118,iPhone 15,Smartphone,iPhone 15 MK343,915
+119,iPhone 15 Pro,Smartphone,iPhone 15 Pro MK230,1178
+120,MacBook Air M2,Laptop,MacBook Air M2 MK746,1026
+121,MacBook Pro 14,Laptop,MacBook Pro 14 MK266,1804
+122,MacBook Pro 16,Laptop,MacBook Pro 16 MK700,2731
+123,AirPods Pro,Accessory,AirPods Pro MK341,243
+124,AirPods 3,Accessory,AirPods 3 MK445,164
+125,Apple Watch S8,Wearable,Apple Watch S8 MK439,378
+126,Apple Watch SE,Wearable,Apple Watch SE MK554,254
+127,iPad Air 5,Tablet,iPad Air 5 MK875,633
+128,iPad Pro 11,Tablet,iPad Pro 11 MK305,781
+129,iPad Pro 12.9,Tablet,iPad Pro 12.9 MK661,1031
+130,HomePod Mini,Smart Home,HomePod Mini MK101,97
+131,Apple Pencil 2,Accessory,Apple Pencil 2 MK665,130
+132,iPhone 14,Smartphone,iPhone 14 MK921,724
+133,iPhone 14 Pro,Smartphone,iPhone 14 Pro MK501,1053
+134,iPhone 15,Smartphone,iPhone 15 MK261,880
+135,iPhone 15 Pro,Smartphone,iPhone 15 Pro MK369,1148
+136,MacBook Air M2,Laptop,MacBook Air M2 MK370,1008
+137,MacBook Pro 14,Laptop,MacBook Pro 14 MK826,2007
+138,MacBook Pro 16,Laptop,MacBook Pro 16 MK801,2411
+139,AirPods Pro,Accessory,AirPods Pro MK819,261
+140,AirPods 3,Accessory,AirPods 3 MK978,190
+141,Apple Watch S8,Wearable,Apple Watch S8 MK316,381
+142,Apple Watch SE,Wearable,Apple Watch SE MK479,237
+143,iPad Air 5,Tablet,iPad Air 5 MK256,741
+144,iPad Pro 11,Tablet,iPad Pro 11 MK164,721
+145,iPad Pro 12.9,Tablet,iPad Pro 12.9 MK620,1053
+146,HomePod Mini,Smart Home,HomePod Mini MK747,89
+147,Apple Pencil 2,Accessory,Apple Pencil 2 MK238,121
+148,iPhone 14,Smartphone,iPhone 14 MK491,835
+149,iPhone 14 Pro,Smartphone,iPhone 14 Pro MK388,1020
